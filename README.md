@@ -8,7 +8,6 @@
 - [PUSH_SWAP_ALGORITHM](#PUSH_SWAP_ALGORITHM)
 - [USAGE](#USAGE)
 
-
 <details close>
   <summary><h3>PUSH_SWAP_PROJECT</h3></summary>
 
@@ -111,6 +110,7 @@ following operations at your disposal:
     ./push_swap "5 9 3 7" | wc -l
 ```
 ![push_swap](https://github.com/mfortuna23/push_swap/assets/147384586/e1117b60-a060-458f-aaf3-8b89133c38a9)
-the best random number calculator that I could find: https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php
+
+The best random number calculator that I could find: https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php
 
 </details>
