@@ -1,0 +1,3 @@
+[submodule "mandatory/mylibft"]
+	path = mandatory/mylibft
+	url = https://github.com/mfortuna23/mylibft.git
