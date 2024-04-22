@@ -105,6 +105,6 @@ because from one integers configuration to another, the most efficient sorting s
 ```
 ![push_swap](https://github.com/mfortuna23/push_swap/assets/147384586/e1117b60-a060-458f-aaf3-8b89133c38a9)
 
-The best random number calculator that I could find: https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php
+The best random number generator that I could find: https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php
 
 </details>
