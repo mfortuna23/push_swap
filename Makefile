@@ -6,7 +6,7 @@
 #    By: mfortuna <mfortuna@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/02/21 11:57:58 by mfortuna          #+#    #+#              #
-#    Updated: 2024/04/16 15:10:47 by mfortuna         ###   ########.fr        #
+#    Updated: 2024/04/29 13:10:46 by mfortuna         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -19,7 +19,7 @@ NAME			= push_swap.a
 MYLIBFT_PATH	= mandatory/mylibft/
 NAMELIB			= mandatory/mylibft/mylibft.a
 MANDATORY		= mandatory/
-MAN_MAIN		= $(MANDATORY)main.c
+MAN_MAIN		= $(MANDATORY)push_swap.c
 PUSH_SWAPOBJ	= $(addprefix $(MANDATORY), stack_create.o errorcheck.o stack.o stack_sort.o stack_push_swap.o \
 stack_rotate.o stack_sortall.o a_aftermove.o b_aftermove.o ft_nsplit.o)
 AR				= ar rc
